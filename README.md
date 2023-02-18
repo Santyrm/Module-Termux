@@ -8,7 +8,8 @@ pip3 install lolcat
 pkg i git -y
 git clone https://github.com/Santyrm/Module-Termux
 cd Module-Termux
-python3 toxiz.py
+python3 toxiciz.py
 Jika tidak bisa lakukan
-python toxiz.py
+python toxiciz.py
+
 ````
